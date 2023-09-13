@@ -10,7 +10,7 @@ At the end of the workshop, you will be able to design and train different machi
 To participate in this workshop, you will need a MathWorks&reg; account [(create MathWorks account)](https://www.mathworks.com/mwaccount/register).
 
 # Data
-Reyes-Ortiz, Jorge, Anguita, Davide, Ghio, Alessandro, Oneto, Luca & Parra, Xavier. (2012). Human Activity Recognition Using Smartphones. UCI Machine Learning Repository. https://archive-beta.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
+Reyes-Ortiz, Jorge, Anguita, Davide, Ghio, Alessandro, Oneto, Luca & Parra, Xavier. (2012). Human Activity Recognition Using Smartphones. UCI Machine Learning Repository. https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
 
 This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
