@@ -1,3 +1,5 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/low-code-AI-workshop)
+
 ## Hands-On Workshop: Low-Code AI: Making AI Accessible to Everyone
 
 Learn how you can apply AI in your field without extensive knowledge in programming. This hands-on session includes a quick recap on the fundamentals of AI and three exercises where you will learn how to classify human activities using MATLAB&reg; interactive tools and apps:
