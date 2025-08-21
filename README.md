@@ -1,5 +1,3 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/low-code-AI-workshop)
-
 ## Hands-On Workshop: Low-Code AI: Making AI Accessible to Everyone
 
 Learn how you can apply AI in your field without extensive knowledge in programming. This hands-on session includes a quick recap on the fundamentals of AI and three exercises where you will learn how to classify human activities using MATLAB&reg; interactive tools and apps:
@@ -12,7 +10,7 @@ At the end of the workshop, you will be able to design and train different machi
 To participate in this workshop, you will need a MathWorks&reg; account [(create MathWorks account)](https://www.mathworks.com/mwaccount/register).
 
 # Data
-Reyes-Ortiz, Jorge, Anguita, Davide, Ghio, Alessandro, Oneto, Luca & Parra, Xavier. (2012). Human Activity Recognition Using Smartphones. UCI Machine Learning Repository. https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
+Reyes-Ortiz, Jorge, Anguita, Davide, Ghio, Alessandro, Oneto, Luca & Parra, Xavier. (2012). Human Activity Recognition Using Smartphones. UCI Machine Learning Repository. https://archive-beta.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
 
 This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
