@@ -1,6 +1,6 @@
 ## ハンズオンワークショップ: ローコードAI ― 誰でも使えるAI
 
-[Go to English Page](README.md)
+[Go to English Page](https://github.com/mathworks/low-code-AI-workshop)
 
 プログラミングの深い知識がなくても、自分の分野でAIを活用する方法を学びましょう。このハンズオンセッションでは、AIの基礎を簡単に振り返った後、MATLAB®の対話型ツールやアプリを使って人間の活動を分類する3つの演習を行います。
 
@@ -14,10 +14,10 @@
 [MathWorksアカウントを作成する](https://www.mathworks.com/mwaccount/register)
 
 # 日本語版コンテンツ
-日本語翻訳版がございます。[JP](JP)フォルダ内にデータセット、スクリプトが格納されていますのでご利用ください。
+日本語翻訳版がございます。[JP](https://github.com/mathworks/low-code-AI-workshop/tree/main/JP)フォルダ内にデータセット、スクリプトが格納されていますのでご利用ください。
 
 # データ
-Reyes-Ortiz, Jorge, Anguita, Davide, Ghio, Alessandro, Oneto, Luca & Parra, Xavier. (2012). Human Activity Recognition Using Smartphones. UCI Machine Learning Repository. https://archive-beta.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
+Reyes-Ortiz, Jorge, Anguita, Davide, Ghio, Alessandro, Oneto, Luca & Parra, Xavier. (2012). Human Activity Recognition Using Smartphones. UCI Machine Learning Repository. https://archive-beta.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
 
 このデータセットは、Creative Commons Attribution 4.0 International (CC BY 4.0) ライセンスの下で提供されています。
 
