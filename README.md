@@ -1,5 +1,7 @@
 ## Hands-On Workshop: Low-Code AI: Making AI Accessible to Everyone
 
+[Go to Japanese Page](https://github.com/mathworks/low-code-AI-workshop/tree/main/JP)
+
 Learn how you can apply AI in your field without extensive knowledge in programming. This hands-on session includes a quick recap on the fundamentals of AI and three exercises where you will learn how to classify human activities using MATLAB&reg; interactive tools and apps:
 1. Accessing and preprocessing data acquired from a mobile device
 2. Applying clustering to the unlabelled data using the Cluster Data Live Editor Task
@@ -10,7 +12,7 @@ At the end of the workshop, you will be able to design and train different machi
 To participate in this workshop, you will need a MathWorks&reg; account [(create MathWorks account)](https://www.mathworks.com/mwaccount/register).
 
 # Data
-Reyes-Ortiz, Jorge, Anguita, Davide, Ghio, Alessandro, Oneto, Luca & Parra, Xavier. (2012). Human Activity Recognition Using Smartphones. UCI Machine Learning Repository. https://archive-beta.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
+Reyes-Ortiz, Jorge, Anguita, Davide, Ghio, Alessandro, Oneto, Luca & Parra, Xavier. (2012). Human Activity Recognition Using Smartphones. UCI Machine Learning Repository. https://archive-beta.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
 
 This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
