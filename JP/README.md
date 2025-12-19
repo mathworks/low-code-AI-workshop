@@ -14,7 +14,7 @@
 [MathWorksアカウントを作成する](https://www.mathworks.com/mwaccount/register)
 
 # 日本語版コンテンツ
-日本語翻訳版がございます。[JP](https://github.com/mathworks/low-code-AI-workshop/tree/main/JP)フォルダ内にデータセット、スクリプトが格納されていますのでご利用ください。
+日本語翻訳版がございます。"JP"フォルダ内にデータセット、スクリプトが格納されていますのでご利用ください。
 
 # データ
 Reyes-Ortiz, Jorge, Anguita, Davide, Ghio, Alessandro, Oneto, Luca & Parra, Xavier. (2012). Human Activity Recognition Using Smartphones. UCI Machine Learning Repository. https://archive-beta.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
